@@ -1,6 +1,6 @@
 # ddns-ukraine.com.ua-js
 
-JS script to update ip-address at ukraine.com.ua hosting.
+JS script to update ip-address at **ukraine.com.ua** hosting.
 
 # Getting started
 
@@ -21,7 +21,17 @@ Create `config.json` and fill it with correct data
 
 ## Run
 
+Run cron job
+
     npm start
+
+Run cron job in a background
+
+    npm start-forever
+
+To stop background process
+
+    npm stop-forever
 
 ----
 

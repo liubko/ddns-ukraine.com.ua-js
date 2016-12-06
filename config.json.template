@@ -1,0 +1,16 @@
+{
+	"admURL": "https://adm.tools/tools/api.php",
+	"authLogin": "login@mail.com",
+	"authToken": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+	"domain": "example.net",
+	"records": [{
+		"record": "example.net.",
+		"type": "A"
+	}, {
+		"record": "www.example.net.",
+		"type": "A"
+	}, {
+		"record": "*.example.net.",
+		"type": "A"
+	}]
+}

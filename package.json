@@ -1,0 +1,29 @@
+{
+  "name": "ddns-ukraine.com.ua-js",
+  "version": "1.0.0",
+  "description": "JS script to update ip-address at ukraine.com.ua hosting",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "0.15.3",
+    "ip": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liubko/ddns-ukraine.com.ua-js.git"
+  },
+  "keywords": [
+    "ddns",
+    "ukraine.com.ua"
+  ],
+  "author": "liubko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liubko/ddns-ukraine.com.ua-js/issues"
+  },
+  "homepage": "https://github.com/liubko/ddns-ukraine.com.ua-js#readme"
+}

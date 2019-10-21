@@ -4,7 +4,7 @@
   "description": "JS script to update ip-address at ukraine.com.ua hosting",
   "main": "main.js",
   "dependencies": {
-    "axios": "0.15.3",
+    "axios": "0.19.0",
     "forever": "0.15.3",
     "ip": "1.1.4",
     "node-cron": "1.1.2"
